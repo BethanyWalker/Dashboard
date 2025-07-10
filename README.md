@@ -16,7 +16,7 @@ Built using Power BI , this dashboard is designed for quick interpretation and s
 # Data Source
 
 Dataset: Social Media Addiction vs. Relationships 
-"https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships/data"
+https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships/data
 
 # Credits
 
