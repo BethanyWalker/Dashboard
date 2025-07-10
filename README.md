@@ -15,12 +15,13 @@ Built using Power BI , this dashboard is designed for quick interpretation and s
 
 # Data Source
 
-Dataset: Social Media Addiction vs. Relationships 
-https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships/data
+Dataset: <a href="https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships/data" title="Social Media Addiction vs. Relationships">
+
 
 # Credits
 
 Icons used in this project were sourced from Flaticon:
+
 <a href="https://www.flaticon.com/free-icons/education" title="education icons">Education icons created by Freepik - Flaticon</a>
 
 <a href="https://www.flaticon.com/free-icons/age-group" title="age group icons">Age group icons created by Freepik - Flaticon</a>
