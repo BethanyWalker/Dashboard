@@ -1,4 +1,4 @@
-# Dashboard
+# Social Media Addiction and Impact Dashboard
 
 This project explores the relationship between social media addiction and its impact on personal relationships, using survey data from Kaggle.
 The interactive dashboard visualizes key insights such as:
